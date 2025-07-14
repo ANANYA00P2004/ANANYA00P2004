@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya P</h1>
 <h3 align="center">A passionate developer from India</h3>
 
--🚀 I'm currently diving deep into Artificial Intelligence and Machine Learning projects.
+🚀 I'm currently diving deep into *Artificial Intelligence* and Machine Learning projects.
 
-💡 Passionate about building intelligent systems that solve real-world problems.
+💡 Passionate about building *intelligent systems* that solve real-world problems.
 
 🤝 Open to collaboration on AI/ML research, projects, and anything at the intersection of web and AI.
 
