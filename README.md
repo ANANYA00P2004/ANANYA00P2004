@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ananya P</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **MERN stack project**
+-🚀 I'm currently diving deep into Artificial Intelligence and Machine Learning projects.
 
-- 🌱 I’m currently learning **MERN stack**
+💡 Passionate about building intelligent systems that solve real-world problems.
 
-- 👯 I’m looking to collaborate on **Machine learning and AI**
+🤝 Open to collaboration on AI/ML research, projects, and anything at the intersection of web and AI.
+
+📚 Always learning — currently focused on expanding my knowledge in deep learning, LLMs, and modern web technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
